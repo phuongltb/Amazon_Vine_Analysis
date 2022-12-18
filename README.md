@@ -42,7 +42,8 @@ This project consists of the following analysis:
       
         ![image](https://user-images.githubusercontent.com/110554264/208308064-e113caa7-3974-49f0-99fe-fc5a9dc7e198.png)
         ![image](https://user-images.githubusercontent.com/110554264/208308097-1cdf389d-1d6f-48e1-a8fd-dedb59796661.png)
-      - There are 222 paid reviews and 30543 unpaid reviews were 5 stars. There are 36.2% Vine reviews were 5 stars and 47% non-Vine reviews were 5 stars 
+      - There are 222 paid reviews and 30543 unpaid reviews were 5 stars. 
+      - There are 36.2% Vine reviews were 5 stars and 47% non-Vine reviews were 5 stars 
             
         ![image](https://user-images.githubusercontent.com/110554264/208308473-b4880019-8d76-4ccb-9edd-d5e6cc845e20.png)
         
